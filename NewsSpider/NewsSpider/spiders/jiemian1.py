@@ -26,5 +26,6 @@ class Jiemian1Spider(scrapy.Spider):
         for new in response.xpath('//div[@class="article-content"]//a'):
             item['title'] = new.xpath('./text()').extract()[0]
             item['link'] = new.xpath('./@href').extract()[0]
+            item['site'] = 'jiemian'
             yield item
 

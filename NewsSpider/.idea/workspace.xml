@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fc999dd-787d-40a4-a0d9-c780a79f9341" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsSpider/spiders/jiemian1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsSpider/spiders/jiemian1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsSpider/spiders/jiemian2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsSpider/spiders/jiemian2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +34,50 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/jiemian2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/jiemian1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/sputnik.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/kyodo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,9 +105,10 @@
         <option value="$PROJECT_DIR$/NewsSpider/pipelines.py" />
         <option value="$PROJECT_DIR$/NewsSpider/spiders/thepaper.py" />
         <option value="$PROJECT_DIR$/NewsSpider/spiders/jiemian.py" />
-        <option value="$PROJECT_DIR$/NewsSpider/spiders/jiemian1.py" />
-        <option value="$PROJECT_DIR$/NewsSpider/spiders/jiemian2.py" />
         <option value="$PROJECT_DIR$/NewsSpider/spiders/sputnik.py" />
+        <option value="$PROJECT_DIR$/NewsSpider/spiders/kyodo.py" />
+        <option value="$PROJECT_DIR$/NewsSpider/spiders/jiemian2.py" />
+        <option value="$PROJECT_DIR$/NewsSpider/spiders/jiemian1.py" />
       </list>
     </option>
   </component>
@@ -118,7 +159,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dailynews/dailynews/settings.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dailynews/dailynews/spiders/gongtong.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,20 +300,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/jiemian1.py">
+    <entry file="file://$PROJECT_DIR$/NewsSpider/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/kyodo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/jiemian2.py">
+    <entry file="file://$PROJECT_DIR$/../../dailynews/dailynews/spiders/gongtong.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        <state relative-caret-position="540">
+          <caret line="30" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="30" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/sputnik.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
@@ -289,17 +347,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewsSpider/items.py">
+    <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/jiemian2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="576">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/sputnik.py">
+    <entry file="file://$PROJECT_DIR$/NewsSpider/spiders/jiemian1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="504">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

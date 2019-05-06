@@ -13,13 +13,21 @@ BOT_NAME = 'NewsSpider'
 
 SPIDER_MODULES = ['NewsSpider.spiders']
 NEWSPIDER_MODULE = 'NewsSpider.spiders'
+LOG_LEVEL = 'WARNING'
 
-
+MONGODB_NAME = 'namesdb'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'NewsSpider (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
+
+DEFAULT_REQUEST_HEADERS = {
+    'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/66.0.3359.181 Chrome/66.0.3359.181 Safari/537.36',
+    'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'en,zh-CN;q=0.9,zh;q=0.8',
+}
+
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -64,9 +72,11 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'NewsSpider.pipelines.NewsspiderPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'NewsSpider.pipelines.NewsPipeline': 300,
+   'NewsSpider.pipelines.DBPipeline': 600,
+
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

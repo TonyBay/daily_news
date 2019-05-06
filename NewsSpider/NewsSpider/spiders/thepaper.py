@@ -2,7 +2,6 @@
 import scrapy
 from NewsSpider.items import NewsItem
 from scrapy.spiders.crawl import Rule, CrawlSpider
-from scrapy.linkextractors import LinkExtractor
 
 class ThePaperSpider(CrawlSpider):
     name = 'thepaper'

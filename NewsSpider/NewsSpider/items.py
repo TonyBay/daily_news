@@ -11,6 +11,4 @@ import scrapy
 class NewsItem(scrapy.Item):
     title = scrapy.Field()
     link = scrapy.Field()
-    time = scrapy.Field()
     site = scrapy.Field()
-    tag = scrapy.Field() # 国内政治, 国际政治, 财经, 科技, 社会新闻

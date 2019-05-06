@@ -74,7 +74,7 @@ DEFAULT_REQUEST_HEADERS = {
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'NewsSpider.pipelines.NewsPipeline': 300,
-   'NewsSpider.pipelines.DBPipeline': 600,
+   # 'NewsSpider.pipelines.DBPipeline': 600,
 
 }
 

@@ -34,6 +34,7 @@ class ThePaperSpider(CrawlSpider):
                 if new.re(r'[0-9]{1,2}小时前|[0-9]{1,2}分钟前'):
                     item['title'] = new.xpath('.//h2/a/text()').extract()[0]
                     item['link'] = 'https://www.thepaper.cn/' + new.xpath('.//a/@href').extract()[0]
+                    item['site'] = 'thepaper'
                     yield item
         if len(response.selector.re(r'[0-9]{1,2}小时前|[0-9]{1,2}分钟前')) == 20:
             yield scrapy.Request(

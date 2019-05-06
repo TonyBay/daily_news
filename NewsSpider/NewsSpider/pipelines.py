@@ -7,6 +7,7 @@
 
 import pymysql
 
+
 class DBPipeline(object):
 
     def __init__(self):
@@ -16,16 +17,24 @@ class DBPipeline(object):
             user='root',
             passwd='vertycal29'
         )
-        # 数据库游标，用于操作数据库
         self.cursor = self.connect.cursor()
+        sql = """CREATE TABLE NEW( 
+                 TITLE VARCHAR(300) NOT NULL, 
+                 LINK VARCHAR(300) NOT NULL,
+                 SITE VARCHAR(80) NOT NULL
+                 )ENGINE=InnoDB DEFAULT CHARSET=utf8"""
+        self.cursor.execute("DROP TABLE IF EXISTS NEW")
+        self.cursor.execute(sql)
 
     def process_item(self, item, spider):
+        sql = "INSERT INTO NEW(TITLE, LINK, SITE) \
+               VALUES ('%s', '%s', '%s')" % \
+              (item['title'],item['link'],item['site'])
         try:
-            self.cursor.execute("INSERT INTO new(title,link,tag,site,time) VALUES (%s,%s,%s,%s,%s)",(item['title'],item['link'],item['tag'],item['site'],item['time']))
+            self.cursor.execute(sql)
             self.connect.commit()
         except Exception as e:
             print(e)
-
         return item
 
     def close_spider(self, spider):

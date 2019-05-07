@@ -16,6 +16,9 @@ NEWSPIDER_MODULE = 'NewsSpider.spiders'
 LOG_LEVEL = 'WARNING'
 
 MONGODB_NAME = 'namesdb'
+
+COMMANDS_MODULE = 'NewsSpider.commands'
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'NewsSpider (+http://www.yourdomain.com)'
 

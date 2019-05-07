@@ -1,0 +1,13 @@
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Requested-With
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+Access-Control-Allow-Origin: 0
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 07 May 2019 14:38:29 GMT
+Server: Tengine
+Set-Cookie: __secdyid=94e9a080f6504f15f3e7c6e79491794501cd822d37544627021557239909; Expires=Wed, 06 May 2020 14:38:29 GMT; HttpOnly
+Set-Cookie: huxiu_analyzer_wcy_id=3591yh9gp91f0snd9mol4z; expires=Wed, 13-Apr-2118 14:38:29 GMT; Max-Age=3122064000; path=/; domain=.huxiu.com
+Set-Cookie: SERVERID=8f2040a932198e2b957f1763518e7d1f|1557239909|1557239909;Path=/
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.1.13

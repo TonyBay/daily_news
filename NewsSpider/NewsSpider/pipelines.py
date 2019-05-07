@@ -4,7 +4,7 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-
+import time
 import pymysql
 
 
@@ -46,5 +46,21 @@ class NewsPipeline(object):
         print(item)
         return item
 
+class MdPipeline(object):
 
+    def __init__(self):
+        self.file = open('today_news.md','w')
+        self.file.write('## '+time.strftime('%m/%d', time.localtime())+'\n\n')
+        self.file.close()
 
+    def open_spider(self, spider):
+        head = spider.call
+        self.file = open('today_news.md','a')
+        self.file.write('### '+head+'\n')
+
+    def process_item(self, item, spider):
+        self.file.write('['+item['title']+']('+item['link']+')'+'\n\n')
+        return item
+
+    def close_spider(self,spider):
+        self.file.close()

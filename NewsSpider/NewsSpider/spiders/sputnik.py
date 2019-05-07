@@ -4,6 +4,7 @@ import time
 from NewsSpider.items import NewsItem
 class SputnikSpider(scrapy.Spider):
     name = 'sputnik'
+    call = '俄罗斯卫星通讯社'
     allowed_domains = ['sputniknews.cn']
     start_urls = ['http://sputniknews.cn/politics/']
 

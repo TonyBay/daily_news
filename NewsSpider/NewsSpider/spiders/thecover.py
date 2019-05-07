@@ -4,6 +4,7 @@ from NewsSpider.items import NewsItem
 
 class ThecoverSpider(scrapy.Spider):
     name = 'thecover'
+    call = '封面新闻'
     allowed_domains = ['thecover.cn']
     start_urls = ['http://www.thecover.cn/channel_51']
 

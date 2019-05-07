@@ -7,6 +7,7 @@ import time
 
 class ZhihuSpider(scrapy.Spider):
     name = 'zhihu'
+    call = '知乎'
     allowed_domains = ['zhihu.com']
     start_urls = ['https://www.zhihu.com/org/liang-zi-wei-48/activities',
                   'https://www.zhihu.com/org/ji-qi-zhi-xin-65/activities',

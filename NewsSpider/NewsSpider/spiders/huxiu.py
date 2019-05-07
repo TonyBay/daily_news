@@ -4,6 +4,7 @@ from NewsSpider.items import NewsItem
 
 class HuxiuSpider(scrapy.Spider):
     name = 'huxiu'
+    call = '虎嗅'
     allowed_domains = ['huxiu.com']
     start_urls = ['https://www.huxiu.com/channel/107.html']
 

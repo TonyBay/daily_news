@@ -5,6 +5,7 @@ from NewsSpider.items import NewsItem
 
 class Jiemian2Spider(scrapy.Spider):
     name = 'jiemian2'
+    call = '界面新闻'
     allowed_domains = ['jiemian.com']
     start_urls = ['https://www.jiemian.com/lists/459.html',
                   'https://www.jiemian.com/lists/280.html',
@@ -17,7 +18,7 @@ class Jiemian2Spider(scrapy.Spider):
     def parse(self, response):
         for new in response.xpath('//div[@class="news-view left card"]'):
             time = new.xpath('.//span[@class="date"]/text()').extract()[0]
-            if time.find('天') != -1 or time.find('/') != -1:
+            if time.find('今天') == -1:
                 break
             yield scrapy.Request(
                 url=new.xpath('.//h3/a/@href').extract()[0],

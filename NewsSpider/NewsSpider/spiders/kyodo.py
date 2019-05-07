@@ -4,6 +4,7 @@ from NewsSpider.items import NewsItem
 
 class KyodoSpider(scrapy.Spider):
     name = 'kyodo'
+    call = '共同社'
     allowed_domains = ['china.kyodonews.net']
     start_urls = ['https://china.kyodonews.net/kyodo_news?page=1']
 

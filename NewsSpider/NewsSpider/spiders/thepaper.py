@@ -5,6 +5,7 @@ from scrapy.spiders.crawl import Rule, CrawlSpider
 
 class ThePaperSpider(CrawlSpider):
     name = 'thepaper'
+    call = '澎湃新闻'
     allowed_domains = ['thepaper.cn']
     start_urls = ['https://www.thepaper.cn/list_25462',
                   'https://www.thepaper.cn/list_25490',

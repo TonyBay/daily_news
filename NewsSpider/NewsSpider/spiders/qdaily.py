@@ -6,19 +6,24 @@ from NewsSpider.items import NewsItem
 
 class QdailySpider(scrapy.Spider):
     name = 'qdaily'
+    call = '好奇心日报'
     allowed_domains = ['qdaily.com']
-    start_urls = ['http://www.qdaily.com/categories/18.html']
+    start_urls = ['http://www.qdaily.com/']
 
     def parse(self, response):
-        for new in response.xpath('//h3[@class]'):
-            if new.xpath('ancestor::a//span/@data-origindate').extract()[0].split(' ')[0] != time.strftime("%Y-%m-%d", time.localtime()):
-                break
-            if new.xpath('./text()').extract()[0].find('大公司头条') != -1:
-                yield scrapy.Request(
-                    url='http://www.qdaily.com' + new.xpath('ancestor::a/@href').extract()[0],
-                    callback=self.page
-                )
-                break
+
+        for new in response.xpath('//div[@class="packery-container articles"]/div'):
+            try:
+                if new.xpath('.//span[@class="smart-date"]/@data-origindate').extract()[0].split(' ')[0] != time.strftime("%Y-%m-%d", time.localtime()):
+                    break
+                if new.xpath('.//h3/text()').extract()[0].find('大公司头条') != -1:
+                    yield scrapy.Request(
+                        url='http://www.qdaily.com' + new.xpath('.//a/@href').extract()[0],
+                        callback=self.page
+                    )
+                    break
+            except:
+                pass
 
     def page(self,response):
         item = NewsItem()
@@ -32,4 +37,4 @@ class QdailySpider(scrapy.Spider):
                     item['title'] += text.replace(' ','')
             item['link'] = new.xpath('.//a/@href').extract()[0]
             item['site'] = 'qdaily'
-            print(item)
+            yield item

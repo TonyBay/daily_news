@@ -1,0 +1,19 @@
+Date: Tue, 07 May 2019 14:38:29 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: tgw_l7_route=6936aeaa581e37ec1db11b7e1aef240e; Expires=Tue, 07-May-2019 14:53:29 GMT; Path=/
+Set-Cookie: _zap=16cfe065-d2e1-49b7-9c69-8bb2cc16afc5; path=/; expires=Thu, 06 May 2021 14:38:29 GMT; domain=.zhihu.com
+Set-Cookie: _xsrf=bd3987a0-0923-4620-a5c9-397095d36182; path=/; domain=.zhihu.com
+Set-Cookie: d_c0="AMBngH7CZA-PTnJs5Gj2Zm9mXwS3dOf7THo=|1557239909"; Domain=zhihu.com; expires=Fri, 06 May 2022 14:38:29 GMT; Path=/
+Vary: Accept-Encoding
+Content-Security-Policy: default-src * blob:; img-src * data: blob:; connect-src * wss: blob:; frame-src 'self' *.zhihu.com weixin: *.vzuu.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 zhihujs: captcha.guard.qcloud.com; script-src 'self' blob: *.zhihu.com res.wx.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com i.hao61.net 'nonce-5b672d0d-be15-46b2-9d6d-66d009520f9e'; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com captcha.gtimg.com
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Backend-Response: 0.294
+Content-Encoding: gzip
+Server: ZWS

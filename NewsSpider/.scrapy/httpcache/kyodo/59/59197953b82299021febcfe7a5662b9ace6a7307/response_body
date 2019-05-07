@@ -1,0 +1,631 @@
+<!-- ArticleSource -->
+
+
+
+
+
+<!DOCTYPE html>
+<html class="full">
+<head prefix="og: http://ogp.me/ns#">
+    <meta name="csrf-token" content="n4qvDLGFOPNDd1EMhVfIg0X1iV8WMmxSaziEnDlH" />
+    <meta charset="utf-8">
+    <title>共同社|共同网</title>
+    <meta name="apple-mobile-web-app-title" content="共同网">
+    <meta name="keywords"    content="共同社,">
+    <meta name="description" content="共同社作为&ldquo;立足于亚洲的国际通讯社&rdquo;，在原有的日语和英语服务基础上，于2001年设立了日本媒体中唯一一家综合性中文新闻网站&ldquo;共同网&rdquo;，并在建社60周年之际的2005年扩大了中文信息服务。中文信息服务以报道日本国内新动向、中日关系新进展和亚洲局势新热">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+
+    <meta name="block_download_image" content="">
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-180x180-precomposed.png" />
+    <meta name="robots" content="noarchive,noodp,noydir" />
+    <meta name="application-name" content="共同网" />
+    <meta name="author"           content="" />
+
+    <meta property="og:url"              content="https://china.kyodonews.net/kyodo_news" />
+    <meta property="og:type"             content="article" />
+    <meta property="og:title"            content="共同社|共同网" />
+    <meta property="og:description"      content="共同社作为&ldquo;立足于亚洲的国际通讯社&rdquo;，在原有的日语和英语服务基础上，于2001年设立了日本媒体中唯一一家综合性中文新闻网站&ldquo;共同网&rdquo;，并在建社60周年之际的2005年扩大了中文信息服务。中文信息服务以报道日本国内新动向、中日关系新进展和亚洲局势新热" />
+    <meta property="og:image"            content="https://s3-us-west-2.amazonaws.com/img.kyodonews.net/public/article_sources/3884c84f021421803366d27b21f8b699/logo_image.png" />
+    <meta property="og:site_name"        content="共同网" />
+    <meta property="og:locale"           content="zh_CN" />
+
+    <meta name="twitter:site"            content="@kyodo_official" />
+    <meta property="twitter:url"         content="https://china.kyodonews.net/kyodo_news" />
+    <meta property="twitter:title"       content="共同社|共同网" />
+    <meta property="twitter:description" content="共同社作为&ldquo;立足于亚洲的国际通讯社&rdquo;，在原有的日语和英语服务基础上，于2001年设立了日本媒体中唯一一家综合性中文新闻网站&ldquo;共同网&rdquo;，并在建社60周年之际的2005年扩大了中文信息服务。中文信息服务以报道日本国内新动向、中日关系新进展和亚洲局势新热" />
+    <meta property="twitter:image:alt"   content="共同社|共同网" />
+    <meta property="twitter:image"       content="https://s3-us-west-2.amazonaws.com/img.kyodonews.net/public/article_sources/3884c84f021421803366d27b21f8b699/logo_image.png" />
+    <meta name="twitter:card"            content="summary_large_image" />
+    <script type="application/ld+json">[{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/china.kyodonews.net\/kyodo_news","name":"KYODO NEWS+","publisher":{"@type":"Organization","name":"KYODO NEWS+","logo":{"@type":"ImageObject","url":"https:\/\/china.kyodonews.net\/zh\/img\/tw_og_china.jpg","width":300,"height":100},"address":{"@type":"PostalAddress","postalCode":"105-7201 Japan","addressRegion":"Tokyo","addressLocality":"Minato","streetAddress":"1-7-1 Higashi Shimbashi"}},"author":{"@type":"Organization","name":"\u5171\u540c\u793e","logo":{"@type":"ImageObject","url":"https:\/\/s3-us-west-2.amazonaws.com\/img.kyodonews.net\/public\/article_sources\/3884c84f021421803366d27b21f8b699\/logo_image.png","width":100,"height":83}}},{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/china.kyodonews.net","name":"TOP"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/china.kyodonews.net\/kyodo_news","name":"\u5171\u540c\u793e|\u5171\u540c\u7f51"}}]}]</script>
+
+    <link media="all" type="text/css" rel="stylesheet" href="https://cdn.kyodo-d.info/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <link media="all" type="text/css" rel="stylesheet" href="https://china.kyodonews.net/zh/css/bootstrap.min.css">
+
+    <link media="all" type="text/css" rel="stylesheet" href="https://china.kyodonews.net/zh/css/additional.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet"/>
+    <link media="all" type="text/css" rel="stylesheet" href="https://china.kyodonews.net/assets/css/app.css?timestamp=20190507233852">
+
+    <link media="print" type="text/css" rel="stylesheet" href="https://china.kyodonews.net/assets/css/print.css?timestamp=20190507233852">
+
+
+    <link media="all" type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.5.0/slick/slick.css">
+
+    <link media="all" type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.5.0/slick/slick-theme.css">
+
+
+    <script src="https://china.kyodonews.net/assets/js/lib/jquery-1.11.3.min.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/lib/jquery.browser.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/lib/jquery.lazy.min.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/lib/jquery-iframe-auto-height.min.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/lib/ofi.min.js"></script>
+
+        <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://china.kyodonews.net/zh/js/itemslide.min.js"></script>
+
+    <script src="https://china.kyodonews.net/zh/js/tether.min.js"></script>
+
+    <script src="https://china.kyodonews.net/zh/js/bootstrap.min.js"></script>
+
+    <script src="https://china.kyodonews.net/zh/js/additional.js"></script>
+
+
+    <script src="https://china.kyodonews.net/assets/js/lib/jquery.inview.min.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/app.js?timestamp=20190507233852"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/page.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/search_post.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/contact.js"></script>
+
+    <script src="https://china.kyodonews.net/assets/js/more.js"></script>
+
+
+            <script src="https://china.kyodonews.net/assets/js/lib/jquery.cookie.js"></script>
+
+
+            
+            <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-40518991-8', 'auto');
+          ga('send', 'pageview');
+
+        </script>
+    
+    
+    </head>
+<body>
+    
+    
+    <!--Header-->
+<header>
+    <div class="container clearfix">
+                <div class="logo"><a href="https://china.kyodonews.net">
+                                <img src="/zh/img/logo_cn.svg" alt="共同網">
+                        </a></div>
+        <div class="global"><a href="" data-toggle="dropdown"><i class="fa fa-globe fa-lg" aria-hidden="true"></i></a>
+            <ul class="dropdown-menu">
+                                                    <li>
+                        <a href="https://english.kyodonews.net"  target="_blank"  >
+                            ENGLISH
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://china.kyodonews.net"  >
+                            简体中文
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://tchina.kyodonews.net"  target="_blank"  >
+                            繁體中文
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="http://www.47news.jp/"  target="_blank"  >
+                            日本語
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+        <div class="search" id="search-button"><a href="https://china.kyodonews.net/search"><i class="fa fa-search fa-lg" aria-hidden="true"></i></a></div>
+    </div>
+</header>
+
+<nav class="nav">
+	<div class="container">
+		<ul class="clearfix">
+                                        <li>
+                    <a class="" href="https://china.kyodonews.net/news/global_news"  >
+                        全球纵横
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/japan-china_relationship"  >
+                        日中关系
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/japan_politics"  >
+                        日本政治
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/economy_science"  >
+                        金融财经
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/cat116"  >
+                        科技环保
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/society"  >
+                        社会生活
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/cat85"  >
+                        灾后重建
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/cat88"  >
+                        福岛核事故
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/culture_entertainment_sports"  >
+                        文体娱乐
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/premier_movement"  >
+                        首相一日
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/tokyo"  >
+                        东京股市
+                    </a>
+                </li>
+                            <li>
+                    <a class="" href="https://china.kyodonews.net/news/local_news"  >
+                        地方频道
+                    </a>
+                </li>
+            		</ul>
+	</div>
+</nav>
+
+    <div class="wrapper">
+                                    <div id="author">
+    <div class="container">
+        <div class="row author-row">
+            <div class="col-lg-4 author-logo-col">
+                <img data-src="https://s3-us-west-2.amazonaws.com/img.kyodonews.net/public/article_sources/3884c84f021421803366d27b21f8b699/logo_image.png" alt="" style="width: 50%; max-width: 150px; max-height: 150px;">
+            </div>
+            <div class="col-lg-8">
+                <h1>共同社</h1>
+                <p>共同社作为“立足于亚洲的国际通讯社”，在原有的日语和英语服务基础上，于2001年设立了日本媒体中唯一一家综合性中文新闻网站“共同网”，并在建社60周年之际的2005年扩大了中文信息服务。中文信息服务以报道日本国内新动向、中日关系新进展和亚洲局势新热点为主要内容，提供共同社快讯、第一手新闻及资深记者撰写的时事评析，为广大媒体和个人读者第一时间提供最新资讯。此外，共同网还致力于打造一个发布各种信息和投放商业广告的多元化网络平台。</p>
+                <div class="socialnav author-socialnav">
+                    <ul>
+                                                    <li><a href="http://www.kyodonews.jp/" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                        
+                        
+                                            </ul>
+                </div><!--end.socialnav-->
+            </div>
+        </div>
+    </div>
+</div>
+
+                    
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                                            <!--Section: latest-->
+    <div class="sec-latest">
+        <h2 id="LatestNews">内容来自共同社</h2>
+                   <ul id="js-postListItems">
+               <li>
+    <a href="/news/2019/05/984b57f82b15.html">
+                <h3>快讯：日本经团联会长称美国对华制裁影响巨大</h3>
+        <p class="latesttxt">　　【共同社5月7日电】日本经济团体联合会（经团联）会长中西宏明7日举行例行记者会，就美国特朗普政府称将上调对中国商品的制裁关税表示担忧说，“我认为如果付诸实施，影响将是巨大的”。（完）</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 17:52
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>            <li>
+    <a href="/news/2019/05/1db84f8b4cb3-wto.html">
+                <div class="pic">
+            <img  src="/zh/img/thumbnail.png" data-src="https://img.kyodonews.net/chinese/public/images/posts/1c1048cabf3196d805f91cae02ecd009/photo_m.jpg" alt="关注：专家就日本在WTO争端中败诉质疑政府">
+        </div>
+                <h3>关注：专家就日本在WTO争端中败诉质疑政府</h3>
+        <p class="latesttxt">　　【共同社5月7日电】围绕日本在二审中转而败诉的世界贸易组织（WTO）有关韩国限制进口日本水产品的争端解决程序，日本政府主张称&ldquo;WTO承认了安全性没有问题&rdquo;，专家则质疑该解释...</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 17:11
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>            <li>
+    <a href="/news/2019/05/3b5481144715--.html">
+                <div class="pic">
+            <img  src="/zh/img/thumbnail.png" data-src="https://img.kyodonews.net/chinese/public/images/posts/5812acd366297f9dfe3c482560cb8c75/photo_m.jpg" alt="福岛大熊町政府开始在新址办公 居民返家成为课题">
+        </div>
+                <h3>福岛大熊町政府开始在新址办公 居民返家成为课题</h3>
+        <p class="latesttxt">　　【共同社5月7日电】东京电力公司福岛第一核电站所在地、因核事故导致全町疏散持续约8年的日本福岛县大熊町政府7日开始在位于4月解除疏散指示的大川原地区的新址办公。町长渡边利纲向职员训示称：&amp;ldqu...</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 17:03
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>            <li>
+    <a href="/news/2019/05/4a1d42b24574--.html">
+                <div class="pic">
+            <img  src="/zh/img/thumbnail.png" data-src="https://img.kyodonews.net/chinese/public/images/posts/9990a89ced9b7383865fd02896b8ecd9/photo_m.jpg" alt="日本迎来“令和”首个工作日 金融机构警惕混乱">
+        </div>
+                <h3>日本迎来“令和”首个工作日 金融机构警惕混乱</h3>
+        <p class="latesttxt">　　【共同社5月7日电】伴随日本天皇换代的十连休结束后，各地的上班族们7日迎来&ldquo;令和&rdquo;首个工作日。金融机构对长假后集中结算可能引发的系统故障保持警惕，政府部门出现了记载新年号&amp;...</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 16:27
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>            <li>
+    <a href="/news/2019/05/e653e8f04c38-100.html">
+                <div class="pic">
+            <img  src="/zh/img/thumbnail.png" data-src="https://img.kyodonews.net/chinese/public/images/posts/1360d0ab89a17899d4407f899b783e2c/photo_m.jpg" alt="联合国科学组织警告称全球100万物种濒临灭绝">
+        </div>
+                <h3>联合国科学组织警告称全球100万物种濒临灭绝</h3>
+        <p class="latesttxt">　　【共同社5月7日电】联合国的科学家组织6日发布评估报告称，全球100万种动植物濒临灭绝，伴随人类活动的生态系统遭破坏速度达到空前水平。报告警告称，支撑人类生活的各种自然的恩惠受损，呼吁彻底加强保护...</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 16:14
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>            <li>
+    <a href="/news/2019/05/2d9050739b2a-f-35a-.html">
+                <h3>坠海F-35A飞行记录装置一部分被找到 损伤严重</h3>
+        <p class="latesttxt">　　【共同社5月7日电】日本防卫相岩屋毅7日就航空自卫队三泽基地（青森县）最尖端隐形战机F-35A在该县附近太平洋海域坠机的事故透露，在现场附近海底发现飞行记录装置的一部分并已打捞。装置损伤严重，所发...</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 15:51
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>            <li>
+    <a href="/news/2019/05/abb3487a06e5-10.html">
+                <div class="pic">
+            <img  src="/zh/img/thumbnail.png" data-src="https://img.kyodonews.net/chinese/public/images/posts/ca870f1fe1a3e43210621aad0cbeb63e/photo_m.jpg" alt="日本政府拟配合10月天皇即位仪式实施恩赦">
+        </div>
+                <h3>日本政府拟配合10月天皇即位仪式实施恩赦</h3>
+        <p class="latesttxt">　　【共同社5月7日电】日前采访相关人士获悉，为配合伴随日本天皇即位的10月“即位礼正殿之仪”，政府正在研究实施恩赦。恩赦是指免除审判中确定的刑罚或恢复已丧失的资格的措施。若得以实施，将是1993年天...</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 15:33
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>            <li>
+    <a href="/news/2019/05/68d13455c18a.html">
+                <div class="pic">
+            <img  src="/zh/img/thumbnail.png" data-src="https://img.kyodonews.net/chinese/public/images/posts/f497cb5a4e4c4bdd03faaadc2a662a60/photo_m.jpg" alt="日本启动今夏“清凉商务”活动">
+        </div>
+                <h3>日本启动今夏“清凉商务”活动</h3>
+        <p class="latesttxt">　　【共同社5月7日电】为促进夏季节能，鼓励轻装上班的日本“清凉商务”活动在长假结束后的首个工作日7日正式启动。东京都中心地区上午9点稍显寒冷，气温与常年持平，为17.9度。不系领带身穿夹克上班的男性...</p>
+    </a>
+    <p class="time">
+        2019年 5月 7日 - 15:10
+                    | <a href="/kyodo_news">共同社</a>
+                        </p>
+</li>    
+            <!--end.latest-->
+        <div class="loader">
+            <button type="button" class="btn btn-primary" id="js-readmore">更多</button>
+        </div>
+        <!--end.loader-->
+               </ul>
+            </div><!--end.latest-->
+                                    </div>
+                <div class="col-md-4">
+                                            <div class="sec-popular">
+        <h2 class="sidebar-title">一周热门报道</h2>
+        <ol>
+                            <li><a href="/news/2019/05/a6c22445bad4.html">独家：特朗普称金正恩曾提到绑架问题及与安倍会面</a></li>
+                            <li><a href="/news/2019/05/5f17d7f28cea-adb.html">日本财务相麻生要求ADB减少对华贷款</a></li>
+                            <li><a href="/news/2019/05/3887bcb7789b--.html">日本新天皇即位 改年号为“令和”</a></li>
+                            <li><a href="/news/2019/04/0e75d394b696--.html">详讯：天皇发表最后讲话 对国民“由衷表示感谢”</a></li>
+                            <li><a href="/news/2019/04/b146c3eb17fd-30-.html">日本天皇30日退位 平成时代即将落幕</a></li>
+                    </ol>
+    </div>
+
+                                            <div class="container">
+                    <div class="row">
+                                                                                                                                                        <div class="col-md-12 topics">
+                                
+                                <h2><a href="/news/cat117">天皇换代</a></h2>
+
+                                <ul>
+                                    <li>
+    <a href="/news/2019/05/c4e45ed21d5e--.html">
+        <div class="latest-title">关注：新天皇称将“遵循”宪法 不同于平成换代</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/e1bc1d80b6ebddcbcc1ca94e5ce5e04c/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                            <li>
+    <a href="/news/2019/05/95428d87107e-214-.html">
+        <div class="latest-title">详讯2：约14万人参加令和时代首次民众朝贺 多于平成</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/c20080a6453af4133fd7c6b2973d4ccc/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                            <li>
+    <a href="/news/2019/05/7bb51ebb853a.html">
+        <div class="latest-title">详讯：日本新天皇在一般参贺时致辞称祈愿世界和平</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/c82ca8ebdc245d0de49e78b55d385f95/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                    </ul>
+                            </div>
+                                                                        </div>
+                    <div class="row">
+                                                                                                                                                        <div class="col-md-12 topics">
+                                
+                                <h2><a href="/news/cat112">编辑推荐</a></h2>
+
+                                <ul>
+                                    <li>
+    <a href="/news/2019/05/1db84f8b4cb3-wto.html">
+        <div class="latest-title">关注：专家就日本在WTO争端中败诉质疑政府</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/1c1048cabf3196d805f91cae02ecd009/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                            <li>
+    <a href="/news/2019/05/e47ce99dead9.html">
+        <div class="latest-title">热点：安倍政府对华政策在对抗与携手间摇摆不定</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/b1557fd1daf97d83d41274a82b987280/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                            <li>
+    <a href="/news/2019/05/30efca696588--.html">
+        <div class="latest-title">分析：日本皇室是否有人权 其与《宪法》关系引争议</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/66307cbec322ba9973d76b0f18a6858a/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                    </ul>
+                            </div>
+                                                                        </div>
+                    <div class="row">
+                                                                                                                                                        <div class="col-md-12 topics">
+                                
+                                <h2><a href="/news/cat108">东京奥运</a></h2>
+
+                                <ul>
+                                    <li>
+    <a href="/news/2019/04/68fbb1663be3.html">
+        <div class="latest-title">日本为加强奥运传染病监控将即时共享信息</div>
+            </a>
+</li>                                                                            <li>
+    <a href="/news/2019/04/90d436b5d4ae.html">
+        <div class="latest-title">驻日美军副司令对横田基地临时军民共用表示支持</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/df6536ccff1e296469b44ea919f09f0c/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                            <li>
+    <a href="/news/2019/04/e9250060e0d4-59.html">
+        <div class="latest-title">详讯：东京奥运5月9日起接受抽签购票申请</div>
+                    <div class="pic-wrapper">
+                <div class="latest-pic" data-src="https://img.kyodonews.net/chinese/public/images/posts/511ce3bf0fa3afaccda17a5b51df3f3e/photo_m.jpg"
+                     style="background-image: url('/zh/img/thumbnail.png')">
+                </div>
+            </div>
+            </a>
+</li>                                                                    </ul>
+                            </div>
+                                                                        </div>
+            </div>
+
+                                    </div>
+            </div>
+        </div>
+
+                            
+        <footer>
+    <div class="container">
+        <div class="socialnav">
+        <ul>
+                                                    <li><a href="https://china.kyodonews.net/rss/news.xml" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                    </ul>
+    </div><!--end.socialnav-->
+
+        <div class="footernav">
+            <ul>
+                                                    <li><a href="/aboutus.html"  >关于我们</a></li>
+                                    <li><a href="/privacypolicy.html"  >隐私条款</a></li>
+                                    <li><a href="/copyright.html"  >版权声明</a></li>
+                                    <li><a href="/links.html"  >相关链接</a></li>
+                                    <li><a href="/contact"  >联系我们</a></li>
+                            </ul>
+        </div><!--end.footernav-->
+
+        <p>&copy; Kyodo News.</p>
+    </div><!--end.container-->
+</footer>
+    </div>
+
+    <div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="subscribeModalLabel">订阅</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>订阅免费邮件新闻</h3>
+                <div class="message">
+                    <p>共同网将向您发送最新报道。收到您的电子邮箱地址后，我们将发送验证邮件。</p>
+                </div>
+                <form>
+                    <div class="row">
+                        <div class="col-md-7">
+                            <input required type="email" class="form-control" id="Email" aria-describedby="emailHelp" placeholder="填写电子邮箱地址">
+                        </div>
+                        <div class="col-md-5">
+                            <button type="submit" class="btn btn-primary">提交</button>
+                        </div>
+                    </div>
+                    <p class="text-danger error-message" style="display:none;">* 当前系统出现问题。</p>
+                </form>
+            </div>
+        </div>
+    </div>
+</div><!--end#subscribeModal-->
+
+<div class="modal fade" id="thanksModal" tabindex="-1" role="dialog" aria-labelledby="thanksModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="thanksModalLabel">订阅</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>感谢提交。</h3>
+                <div class="message">
+                    <p>验证邮件已发送，请查收。</p>
+
+                                                        </div>
+            </div>
+        </div>
+    </div>
+</div><!--end#thanksModal-->    <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="contactModalLabel">联系我们</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="message">
+                    <p>如果你输入的内容没有错误，请按提交。<br>如果有错，请按返回。</p>
+                    <table class="table table-striped">
+                        <tr><td class="contactus_label">主题</td><td id="subject_modal"></tr>
+                        <tr><td class="contactus_label">姓名</td><td id="your_name_modal"></tr>
+                        <tr><td class="contactus_label">电子邮箱</td><td id="your_email_modal"></tr>
+                        <tr><td class="contactus_label">留言</td><td id="your_message_modal"></tr>
+                    </table>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 text-center contactModalCancel">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"
+                                    aria-label="Close">返回</button>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <button type="button" class="btn btn-primary" id="contact_button"
+                                    name="hidden-input">提交</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div><!--end#subscribeModal-->
+
+<div class="modal fade" id="contactThanksModal" tabindex="-1" role="dialog" aria-labelledby="contactThanksModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="contactThanksModalLabel">联系我们</h2>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>谢谢您联系我们。</h3>
+                <div class="message">
+                    <p>非常感谢您抽空给我们写信，我们会及时反馈。 <br>欢迎再次访问并多多关注我们的网站。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!--end#thanksModal-->
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '1572248506141103',
+            xfbml      : true,
+            version    : 'v2.8'
+        });
+        FB.AppEvents.logPageView();
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript" async defer data-pin-custom="true" src="//assets.pinterest.com/js/pinit.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.5.0/slick/slick.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".main-five-slider").slick({
+                dots:true,
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrows: false,
+                dotsClass: 'custom-dots',
+            });
+        });
+    </script>
+    
+    </body>
+</html>

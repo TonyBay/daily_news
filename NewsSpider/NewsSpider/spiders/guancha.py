@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
+
 import scrapy
 from NewsSpider.items import NewsItem
 
 class GuanchaSpider(scrapy.Spider):
     name = 'guancha'
+    call = '观察者'
     allowed_domains = ['guancha.cn']
     start_urls = ['https://www.guancha.cn/GuanChaZheTouTiao/list_1.shtml']
 
@@ -20,4 +22,4 @@ class GuanchaSpider(scrapy.Spider):
                 item['site'] = 'guancha'
                 yield item
             except:
-                passW
+                pass

@@ -10,8 +10,7 @@ class SputnikSpider(scrapy.Spider):
 
     def start_requests(self):
         yield scrapy.Request(
-            # url='http://sputniknews.cn/politics/' + time.strftime("%Y%m%d", time.localtime()),
-            url='http://sputniknews.cn/politics/20190503',
+            url='http://sputniknews.cn/politics/' + time.strftime("%Y%m%d", time.localtime()),
             callback=self.parse
         )
 

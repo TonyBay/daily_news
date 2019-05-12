@@ -7,8 +7,7 @@ class Jiemian1Spider(scrapy.Spider):
     name = 'jiemian1'
     call = '界面新闻'
     allowed_domains = ['jiemian.com']
-    start_urls = ['https://www.jiemian.com/lists/447.html',
-                  'https://www.jiemian.com/lists/446.html']
+    start_urls = ['https://www.jiemian.com/lists/446.html']
 
     def parse(self, response):
         for new in response.xpath('//div[@class="news-view left card"]'):

@@ -9,7 +9,7 @@
 + [虎嗅](https://www.huxiu.com/)
 + [好奇心日报](http://www.qdaily.com/)
 + [华尔街见闻](https://wallstreetcn.com/)
-+ []()
++ [南华早报](https://www.zaobao.com/)
 + [知乎专栏](https://zhuanlan.zhihu.com/)
 	+ [量子位](https://www.zhihu.com/org/liang-zi-wei-48/activities)
 	+ [机器之心](https://www.zhihu.com/org/ji-qi-zhi-xin-65/activities)

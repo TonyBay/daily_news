@@ -3,6 +3,7 @@
 import scrapy
 from NewsSpider.items import NewsItem
 
+
 class GuanchaSpider(scrapy.Spider):
     name = 'guancha'
     call = '观察者'

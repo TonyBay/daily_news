@@ -13,7 +13,8 @@ class Jiemian2Spider(scrapy.Spider):
                   'https://www.jiemian.com/lists/430.html',
                   'https://www.jiemian.com/lists/431.html',
                   'https://www.jiemian.com/lists/428.html',
-                  'https://www.jiemian.com/lists/175.html',]
+                  'https://www.jiemian.com/lists/175.html',
+                  'https://www.jiemian.com/lists/447.html',]
 
     def parse(self, response):
         for new in response.xpath('//div[@class="news-view left card"]'):

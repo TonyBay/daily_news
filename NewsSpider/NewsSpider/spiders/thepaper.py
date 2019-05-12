@@ -3,6 +3,7 @@ import scrapy
 from NewsSpider.items import NewsItem
 from scrapy.spiders.crawl import Rule, CrawlSpider
 
+
 class ThePaperSpider(CrawlSpider):
     name = 'thepaper'
     call = '澎湃新闻'

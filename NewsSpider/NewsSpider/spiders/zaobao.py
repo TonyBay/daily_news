@@ -18,4 +18,5 @@ class ZaobaoSpider(scrapy.Spider):
                 break
             item['title'] = new.xpath('.//span[@class="post-title"]/text()').extract()[0]
             item['link'] = 'https://www.zaobao.com' + new.xpath('.//a/@href').extract()[0]
+            item['site'] = 'zaobao'
             yield item
